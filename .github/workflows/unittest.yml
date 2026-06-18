@@ -32,4 +32,4 @@ jobs:
 
       # Step 4: Run tests using pytest
       - name: Run tests
-        run: pytest .tests/
+        run: pytest tests
